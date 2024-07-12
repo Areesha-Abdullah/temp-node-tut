@@ -8,6 +8,14 @@ else{
     console.log('large number')
 }
 
+setTimeout(()=>{
+    console.log("task2")
+},4000)
+setTimeout(()=>{
+    console.log("task3")
+},5000)
+
+
 // // console.log('hey')
 // console.log(__dirname)
 // console.log(__filename)

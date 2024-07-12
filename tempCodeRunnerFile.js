@@ -1,2 +1,3 @@
-sayHi('susan')
-// sayHi(name.n2)
+emitter.on('response', (name, age)=>{
+//     console.log(`hi ${name} ${age}`)
+// })
